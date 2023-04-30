@@ -1,0 +1,3 @@
+# Ignore cross-hands weights files
+yolo-hand-detection/models/cross-hands.weights
+yolo-hand-detection/models/cross-hands.weights.1
